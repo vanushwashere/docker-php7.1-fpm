@@ -1,4 +1,4 @@
-M php:7.1-fpm
+FROM php:7.1-fpm
 MAINTAINER Tom Sacré <github@digitalkreativ.com>
 
 # PHP config
